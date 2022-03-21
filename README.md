@@ -1,4 +1,4 @@
-# Introdução à Programação com Python (Edição 2)
+# Python para Data Science - Edição 1
 
 ![Python_Workshop](img/datascience.png)
 
