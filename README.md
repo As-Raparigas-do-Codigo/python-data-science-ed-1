@@ -31,7 +31,7 @@ Dominio Básico da linguagem Python.
 | [S01](/S01-Análise-Exploratoria-Dados-1) | 9 Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
 | [S02](/S02-Análise-Exploratoria-Dados-2) | 16 Abril | Análise Exploratória de Dados: Parte 2. <br>Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
 | [S03](/S03-Pré-Processamento-Dados) | 23 Abril  | Pré-Processamentos de Dados. <br> Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
-| [S04](/S04-Construção-Avaliação-Modelos-1) | 30 Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
+| [S04](/S04-Construção-Avaliação-Modelos-1) | 30 Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. <br>Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
 | [S05](/S04-Construção-Avaliação-Modelos-2) | 7 Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
 | [S06] | 14 Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
 
