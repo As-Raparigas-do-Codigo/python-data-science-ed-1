@@ -5,11 +5,11 @@
 ---
 ## Informação Geral
 
-Esta segunda edição de workshops de Python terá duração de 7 semanas, de **30 Outubro a 11 de Dezembro 2021**.
+Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 7 de Maio 2022**.
 
 As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
-**Canal no Discord:** [#python-edição-2](https://discord.com/channels/755197277093756998/900085157720125501)
+**Formato:** Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão os oapresentados os conceitos associados a cada tema (exemplificados com pequenos exertos de código) e promovidaa resolução de casos práticos e problemas reais.
 
 **Equipa de instrutores:**
 
@@ -19,23 +19,28 @@ As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 - José Amorim
 - Daniela Pereira
 
+**Pré-Requisitos**
+Dominio Básico da linguagem Python.
+
 ---
 ## Planeamento
 
 | Sessão | Data  | Tópicos |
-| ------ |  ----- | -------------|
-| [S00](/S00-Sessão-Abertura) | 30 Out | Sessão de abertura. Introdução ao curso.<br>Formato e modo de funcionamento.<br>Preparação do ambiente para acompanhamento das aulas em live coding.| 
-| [S01](/S01-Variáveis-Expressões-Operadores) | 6 Nov | Interação básica com o utilizador (print + input).<br>Hello World. Tipos de dados simples.<br>Variáveis. Expressões e operadores.| 
-| [S02](/S02-Fluxo-de-um-Programa) | 13 Nov |Fluxo de um programa. Instruções de controlo: condições (if). |   
-| [S03](/S03-Instruções-de-Controlo) | 20 Nov | Instruções de controlo: ciclos (for + while).|
-| [S04](/S04-Funções) | 27 Nov | Funções. Passagem de parâmetros.<br>Módulos. Utilização do módulo math.|
-| [S05](/S05-Tipos-de-Dados) | 4 Dez | Tipos de dados compostos: strings, listas, dicionários, tuplos e conjuntos.|
-| [S06](/S06-Operacoes-em-Ficheiros) | 11 Dez | Operações em ficheiros de texto (leitura + escrita).<br>Armazenamento de dados em formato CSV.<br>Tratamento de exceções.|
+| ------ |  ----- | -----------------|
+| [S00](/S00-Sessão-Abertura) | 2 Abril | Introdução à Ciência de Dados. <br> Sessão de Abertura <br> Introdução ao Jupyter Notebook| 
+| [S01](/S01-Análise-Exploratoria-Dados-1) | 9 Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
+| [S02](/S02-Análise-Exploratoria-Dados-2) | 16 Abril | Análise Exploratória de Dados: Parte 2. Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
+| [S03](/S03-Pré-Processamento-Dados) | 23 Abril  | Pré-Processamentos de Dados Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
+| [S04](/S04-Construção-Avaliação-Modelos-1) | 30 Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
+| [S05](/S04-Construção-Avaliação-Modelos-2) | 7 Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
+| [S06] | 14 Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
 
 ---
 ## Bibliografia
 
-- <b>Livro de referência:</b> How to Think Like a Computer Scientist — Learning with Python 3 (Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers). [[PDF - EN]](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) [[Versão Online - Tradução PT/BR]](https://panda.ime.usp.br/panda/static/pensepy/index.html)
-- Website RealPython: https://realpython.com/
+<b>Livros de referência:</b> <br>
+- Data Science from Scratch: First Principles with Python, 2nd Edition, O'Reilly, 2019</b>
+- Python Data Science Handbook: Essential Tools for Working with Data, O'Reilly, 2016 </b>
+- Data Science, The MIT Press Essential Knowledge series, 2018
 
 
