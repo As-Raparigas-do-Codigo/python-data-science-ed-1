@@ -3,15 +3,16 @@
 ![Python_Workshop](img/datascience.png)
 
 ---
-## Informação Geral
+## 👋 Informação Geral
 
 Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 7 de Maio 2022**.
 
 As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
-**Formato:** Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão os oapresentados os conceitos associados a cada tema (exemplificados com pequenos exertos de código) e promovidaa resolução de casos práticos e problemas reais.
+#### 💻 Formato:
+Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão os oapresentados os conceitos associados a cada tema (exemplificados com pequenos exertos de código) e promovidaa resolução de casos práticos e problemas reais.
 
-**Equipa de instrutores:**
+#### 🤍 Equipa de instrutores:
 
 - Ricardo Pereira
 - Joana Lopes
@@ -19,11 +20,11 @@ As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 - José Amorim
 - Daniela Pereira
 
-**Pré-Requisitos**
+#### 🎒 Pré-Requisitos
 Dominio Básico da linguagem Python.
 
 ---
-## Planeamento
+## 📅 Planeamento
 
 | Sessão | Data  | Tópicos |
 | ------ |  ----- | -----------------|
@@ -36,7 +37,7 @@ Dominio Básico da linguagem Python.
 | [S06] | 14 Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
 
 ---
-## Bibliografia
+## 📚 Bibliografia
 
 <b>Livros de referência:</b> <br>
 - Data Science from Scratch: First Principles with Python, 2nd Edition, O'Reilly, 2019</b>
