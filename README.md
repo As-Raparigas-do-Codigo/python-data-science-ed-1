@@ -10,7 +10,7 @@ Esta segunda edição de workshops de Python terá duração de 7 semanas, de **
 As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
 #### Formato:
-Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão os oapresentados os conceitos associados a cada tema (exemplificados com pequenos exertos de código) e promovidaa resolução de casos práticos e problemas reais.
+Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão os oapresentados os conceitos associados a cada tema (exemplificados com pequenos exertos de código) e promovida a resolução de casos práticos e problemas reais.
 
 #### Equipa de instrutores:
 
@@ -21,7 +21,7 @@ Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão o
 - Daniela Pereira
 
 #### Pré-Requisitos
-Dominio Básico da linguagem Python.
+Domínio básico da linguagem Python.
 
 ---
 ## 📅 Planeamento
