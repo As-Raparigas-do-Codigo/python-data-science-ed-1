@@ -29,13 +29,13 @@ Domínio básico da linguagem Python.
 
 | Sessão | Data  | Tópicos |
 | ------ |  ----- | -----------------|
-| [S00](/S00-Sessão-Abertura) | 2 de Abril | Introdução à Ciência de Dados. <br> Sessão de Abertura <br> Introdução ao Jupyter Notebook| 
-| [S01](/S01-Análise-Exploratoria-Dados-1) | 9 de Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
-| [S02](/S02-Análise-Exploratoria-Dados-2) | 16 de Abril | Análise Exploratória de Dados: Parte 2. <br>Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
-| [S03](/S03-Pré-Processamento-Dados) | 23 de Abril  | Pré-Processamentos de Dados. <br> Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
-| [S04](/S04-Construção-Avaliação-Modelos-1) | 30 de Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. <br>Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
-| [S05](/S04-Construção-Avaliação-Modelos-2) | 7 de Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
-| [S06] | 14 de Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
+| S00 | 2 de Abril | Introdução à Ciência de Dados. <br> Sessão de Abertura <br> Introdução ao Jupyter Notebook| 
+| S01 | 9 de Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
+| S02 | 16 de Abril | Análise Exploratória de Dados: Parte 2. <br>Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
+| S03 | 23 de Abril  | Pré-Processamentos de Dados. <br> Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
+| S04 | 30 de Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. <br>Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
+| S05 | 7 de Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
+| S06 | 14 de Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
 
 ---
 ## 📚 Bibliografia
