@@ -41,8 +41,8 @@ Domínio básico da linguagem Python.
 ## 📚 Bibliografia
 
 <b>Livros de referência: </b> <br>
-- [Data Science from Scratch: First Principles with Python, 2nd Edition, O'Reilly, 2019](https://github.com/As-Raparigas-do-Codigo/Introduction-Data-Science-Python/blob/main/books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook.%20%20Essential%20Tools%20for%20Working%20with%20Data%20(2016%2C%20O'Reilly%20Media)%20-%20libgen.lc.pdf)</b>
-- Python Data Science Handbook: Essential Tools for Working with Data, O'Reilly, 2016 </b>
-- Data Science, The MIT Press Essential Knowledge series, 2018
+- [Data Science from Scratch: First Principles with Python, 2nd Edition, O'Reilly, 2019]</b>
+- [Python Data Science Handbook: Essential Tools for Working with Data, O'Reilly, 2016](https://github.com/As-Raparigas-do-Codigo/Introduction-Data-Science-Python/blob/main/books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook.%20%20Essential%20Tools%20for%20Working%20with%20Data%20(2016%2C%20O'Reilly%20Media)%20-%20libgen.lc.pdf) </b>
+- [Data Science, The MIT Press Essential Knowledge series, 2018](https://github.com/As-Raparigas-do-Codigo/Introduction-Data-Science-Python/blob/main/books/MIT%20Press%20essential%20knowledge%20series%20Kelleher%2C%20John%20D._Tierney%2C%20Brendan%20-%20Data%20science%20(2018%2C%20The%20MIT%20Press)%20-%20libgen.lc.pdf)
 
 
