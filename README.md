@@ -17,7 +17,7 @@ Os workshops desenvolvem-se numa perspectiva teórico-prática: em cada sessão 
 - [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/)
 - [José Amorim](https://www.linkedin.com/in/josepamorim/)
 - [Miriam Santos](https://www.linkedin.com/in/miriamseoanesantos/)
-- Ricardo Pereira
+- [Ricardo Pereira](https://ricardodcpereira.com/)
 - [Rita Pereira](https://www.linkedin.com/in/ritasousapereira/)
 
 
