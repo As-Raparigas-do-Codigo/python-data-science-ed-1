@@ -14,11 +14,12 @@ Os workshops desenvolvem-se numa perspectiva teorico-prática: em cada sessão o
 
 #### Equipa de instrutores:
 
-- Ricardo Pereira
-- Joana Lopes
-- Rita Pereira
+- Catarina Silva
 - José Amorim
-- Daniela Pereira
+- Miriam Santos
+- Ricardo Pereira
+- Rita Pereira
+
 
 #### Pré-Requisitos
 Domínio básico da linguagem Python.
