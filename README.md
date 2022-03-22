@@ -14,11 +14,11 @@ Os workshops desenvolvem-se numa perspectiva teórico-prática: em cada sessão 
 
 #### Equipa de instrutores:
 
-- Catarina Silva
-- José Amorim
-- Miriam Santos
+- [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/)
+- [José Amorim](https://www.linkedin.com/in/josepamorim/)
+- [Miriam Santos](https://www.linkedin.com/in/miriamseoanesantos/)
 - Ricardo Pereira
-- Rita Pereira
+- [Rita Pereira](https://www.linkedin.com/in/ritasousapereira/)
 
 
 #### Pré-Requisitos
