@@ -40,7 +40,7 @@ Domínio básico da linguagem Python.
 ---
 ## 📚 Bibliografia
 
-<b>Livros de referência: podem ser encontrados na pasta "books" deste repositório. </b> <br>
+<b>Livros de referência: </b> <br>
 - Data Science from Scratch: First Principles with Python, 2nd Edition, O'Reilly, 2019</b>
 - Python Data Science Handbook: Essential Tools for Working with Data, O'Reilly, 2016 </b>
 - Data Science, The MIT Press Essential Knowledge series, 2018
