@@ -5,7 +5,7 @@
 ---
 ## 👋 Informação Geral
 
-Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 7 de Maio 2022**.
+Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 14 de Maio 2022**.
 
 As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
