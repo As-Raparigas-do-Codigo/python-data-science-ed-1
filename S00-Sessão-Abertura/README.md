@@ -5,7 +5,7 @@ Bem-vinda à abertura dos Workshops de Python para Data Science! 👋
 Hoje vais ter a oportunidade de conhecer melhor a nossa comunidade 🌍, as mentoras e mentores do curso 👩🏻‍💻👨🏻‍💻, e aprender os aspetos básicos do que é ser uma *data scientist* 👩🏾‍🔬💻📊
 
 
-## Agenda da sessão:
+## 📖 Agenda da sessão:
 
 - Sessão de Abertura, Comunidade, e Mentores;
 - Introdução ao Curso (Funcionamento, Calendário, Planeamento, Mentorias e Ferramentas);
@@ -21,12 +21,12 @@ Hoje vais ter a oportunidade de conhecer melhor a nossa comunidade 🌍, as ment
 - Conceitos e Notação
 - Exemplos
 
-## Material:
+## 📚 Material:
 
 - [S00 - Sessão de Abertura e Introdução à Ciência de Dados (pdf)](https://github.com/As-Raparigas-do-Codigo/python-data-science-ed-1/blob/main/S00-Sessão-Abertura/S00-Intro-Data-Science.pdf)
 👏
 
-## Ferramentas:
+## 🛠 Ferramentas:
 Nestes workshops, iremos usar [Jupyter Notebooks](https://jupyter.org/) e o [Google Colab](https://colab.research.google.com/) para fazer os exercícios e acompanhar as aulas. 
 
 
