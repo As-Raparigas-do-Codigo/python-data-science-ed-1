@@ -5,15 +5,14 @@ Bem vinda à segunda aula de Python para Data Science! 🥳
 ## 📖 Agenda da sessão:
 
 - Biblioteca Pandas
+- Entender os dados:  exploração do domínio do problema (*Business and Data Understanding*) 
 - Pandas vs Séries
 - Importar dados: csv & outros
-- Importing Pandas
-- Pandas Series
-- Pandas DataFrame
 - Previewing a DataFrame
 - Retrieving Dataframe Information
 - Reading/Writing data
-- Basic Stats: Média, Moda, Mediana, Correlação, 
+- Selecionar dados: colunas, filas, index, ordenar, criar novas colunas com condicional, remover colunas
+- Basic Stats: Média, Moda 
 
 ## 📚 Material:
 
@@ -28,7 +27,7 @@ Durante o curso, iremos desenvolver um projeto de *data science* passando por v�
 
 O dataset que irás estudar é o "Titanic", um dos problemas mais utilizados para iniciantes em Data Science. Podes aceder ao dataset [aqui](https://www.kaggle.com/competitions/titanic/data).
 
-- 
+
 
 🥇 **Pergunta Bónus:**
 
