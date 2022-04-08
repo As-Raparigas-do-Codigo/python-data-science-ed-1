@@ -21,8 +21,6 @@ Bem vinda à segunda aula de Python para Data Science! 🥳
 [Google colab para a aula de hoje](https://colab.research.google.com/drive/1-N-AFiOEIiOvzitAABuwGoUdS4Vug2cn?usp=sharing)
 🚀
 
-## 🛠 Bibliografia:
-https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
 
 
 ## Lembrete para TPC: 🛳  Projeto - O Desastre do Titanic 
@@ -42,3 +40,7 @@ Se tiveres alguma dúvida sobre as sessões ou o projeto, podes:
 - Colocar a tua dúvida no discord, no canal `#data-science-geral` e qualquer um dos mentores ou colegas te poderá ajudar;
 - Colocar as tuas dúvidas ou comentários directamente nas discussões associadas a este repositório do GitHub, [aqui!](https://github.com/As-Raparigas-do-Codigo/python-data-science-ed-1/discussions)
 
+
+
+## 🛠 Documentação:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
