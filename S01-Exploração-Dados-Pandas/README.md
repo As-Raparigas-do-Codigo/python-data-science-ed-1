@@ -21,8 +21,8 @@ Bem vinda à segunda aula de Python para Data Science! 🥳
 [Google colab para a aula de hoje](https://colab.research.google.com/drive/1-N-AFiOEIiOvzitAABuwGoUdS4Vug2cn?usp=sharing)
 🚀
 
-## 🛠 Ferramentas:
-Nestes workshops, iremos usar [Jupyter Notebooks](https://jupyter.org/) e o [Google Colab](https://colab.research.google.com/) para fazer os exercícios e acompanhar as aulas. 
+## 🛠 Bibliografia:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
 
 
 ## Lembrete para TPC: 🛳  Projeto - O Desastre do Titanic 
