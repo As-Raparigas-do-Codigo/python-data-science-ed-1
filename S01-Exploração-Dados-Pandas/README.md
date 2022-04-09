@@ -62,4 +62,5 @@ Se tiveres alguma dúvida sobre as sessões ou o projeto, podes:
 
 ## 🛠 Documentação/Ajuda:
 https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
+
 [Programmer's best friend - Stack Overflow](https://stackoverflow.com/)
