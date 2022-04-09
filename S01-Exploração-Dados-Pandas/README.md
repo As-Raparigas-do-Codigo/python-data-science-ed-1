@@ -30,13 +30,13 @@ Durante o curso, iremos desenvolver um projeto de *data science* passando por v�
 
 O dataset que irás estudar é o "Titanic", um dos problemas mais utilizados para iniciantes em Data Science. Podes aceder ao dataset [aqui](https://www.kaggle.com/competitions/titanic/data).
 
-Lê o dataset para o um notebook e utiliza esse mesmo colab para as próximas semanas 🏗 Como?
+**Lê o dataset para o um notebook e utiliza esse mesmo colab para as próximas semanas 🏗 Como?**
 
 1. Faz download do train data set no link da competição do kaggle em cima
 2. Segue os passos *2) From a local drive* [aqui](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
 
 
-👉 Perguntas para esta semana:
+👉 **Perguntas para esta semana:**
 
 - Significado de cada coluna 
 - Quem era a tripulação do titanic? idade, genero, etc
