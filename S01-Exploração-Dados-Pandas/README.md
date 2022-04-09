@@ -2,6 +2,9 @@
 
 Bem vinda à segunda aula de Python para Data Science! 🥳
 
+![Pandas](panda.png)
+
+
 ## 📖 Agenda da sessão:
 
 - Biblioteca Pandas
