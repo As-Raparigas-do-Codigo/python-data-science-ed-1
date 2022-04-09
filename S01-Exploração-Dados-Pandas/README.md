@@ -33,7 +33,7 @@ O dataset que irás estudar é o "Titanic", um dos problemas mais utilizados par
 **Lê o dataset para o um notebook e utiliza esse mesmo colab para as próximas semanas 🏗 Como?**
 
 1. Faz download do train data set no link da competição do kaggle em cima
-2. Segue os passos *2) From a local drive* [aqui](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+2. Segue os passos tal como fizémos na aula! download do csv do kaggle 👉 import para o colab 😜
 
 
 👉 **Perguntas para esta semana:**
