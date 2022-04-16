@@ -30,7 +30,7 @@ Domínio básico da linguagem Python.
 | Sessão | Data  | Tópicos |
 | ------ |  ----- | -----------------|
 | [S00](/S00-Sessão-Abertura) | 2 de Abril | Introdução à Ciência de Dados. <br> Sessão de Abertura <br> Introdução ao Jupyter Notebook| 
-| S01 | 9 de Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
+| [S01](/S01-Exploração-Dados-Pandas) | 9 de Abril | Análise Exploratória de Dados: Parte 1.<br> Leitura de dados a partir de ficheiros CSV. <br> Biblioteca Pandas.|
 | [S02](/S02-Exploração-Dados-numpy-matplotlib) | 16 de Abril | Análise Exploratória de Dados: Parte 2. <br>Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
 | S03 | 23 de Abril  | Pré-Processamentos de Dados. <br> Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
 | S04 | 30 de Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. <br>Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
