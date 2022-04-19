@@ -58,9 +58,20 @@ Se tiveres alguma dúvida sobre as sessões ou o projeto, podes:
 ## 🛠 Documentação/Ajuda:
 
 Numpy: https://numpy.org/doc/stable/
+
 MatPlotLib: https://matplotlib.org/stable/tutorials/index.html
+
 Data Visualization using Matplotlib (tutorial): https://www.kaggle.com/code/sanikamal/data-visualization-using-matplotlib/notebook
+
 SciPy: https://scipy.org/
-Stats module: https://docs.scipy.org/doc/scipy/reference/stats.html#:~:text=Statistical%20functions%20(%20scipy.-,stats%20),Monte%20Carlo%20functionality%2C%20and%20more.
+
+Stats module: 
+https://docs.scipy.org/doc/scipy/reference/stats.html#:~:text=Statistical%20functions%20(%20scipy.-,stats%20),Monte%20Carlo%20functionality%2C%20and%20more.
+
+Outras bibliotecas:
+
+Seaborn: statistical data visualization https://seaborn.pydata.org/
+
+Scikit-learn (Tools for predictive data analysis, built on NumPy, SciPy, and matplotlib): https://scikit-learn.org/
 
 [Programmer's best friend - Stack Overflow](https://stackoverflow.com/)
