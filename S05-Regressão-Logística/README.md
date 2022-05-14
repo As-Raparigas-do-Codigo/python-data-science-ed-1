@@ -2,7 +2,7 @@
 
 Bem vinda à sexta aula de Python para Data Science! 🥳
 
-![Keanu](keanu.jpeg)
+![Keanu](keanu.jpg)
 
 
 ## 📖 Agenda da sessão:
