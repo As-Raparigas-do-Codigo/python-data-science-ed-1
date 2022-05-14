@@ -5,7 +5,7 @@
 ---
 ## 👋 Informação Geral
 
-Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 14 de Maio 2022**.
+Esta segunda edição de workshops de Python terá duração de 7 semanas, de **2 Abril a 21 de Maio 2022**.
 
 As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
@@ -34,8 +34,8 @@ Domínio básico da linguagem Python.
 | [S02](/S02-Exploração-Dados-numpy-matplotlib) | 16 de Abril | Análise Exploratória de Dados: Parte 2. <br>Bibliotecas NumPy e SciPy. <br> Visualização de dados.<br>  Biblioteca Matplotlib.|
 | [S03](/S03-Pré-Processamento-Dados) | 23 de Abril  | Pré-Processamentos de Dados. <br> Discretização e normalização de variáveis. Dados em falta e dados desequilibrados.|
 | [S04](/S04-Regressão-Linear) | 30 de Abril | Construção e Avaliação de Modelo: parte 1  <br> Aprendizagem automática. Modelos supervisionados. <br>Regressão linear. Medidas de erro: MAE, MSE e RMSE.|
-| S05 | 7 de Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
-| S06 | 14 de Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
+| [S05](/S05-Regressão-Logística) | 14 de Maio | Construção e Avaliação de Modelo: parte 2 <br> Classificação. Regressão Logística. Métricas de classificação: matriz de confusão.|
+| S06 | 21 de Maio | Sessão de Encerramento. <br> Carreiras e Oportunidades em Ciência de Dados. Projetos para Iniciantes.|
 
 ---
 ## 📚 Bibliografia
